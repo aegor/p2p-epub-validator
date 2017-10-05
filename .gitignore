@@ -18,3 +18,4 @@ dependency-reduced-pom.xml
 .mvn
 env-jdk8
 -old
+.DS_Store
