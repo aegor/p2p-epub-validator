@@ -1,0 +1,2 @@
+name=`basename $1`
+curl -F "name=$name" -F "file=@$1" http://localhost:8080/validate
